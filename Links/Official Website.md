@@ -1,1 +1,1 @@
-the only official website is [https://www.krnl.place]]
+the only official website is [[https://www.krnl.place]]
